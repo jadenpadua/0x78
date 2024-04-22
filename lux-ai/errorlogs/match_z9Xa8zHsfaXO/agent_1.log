@@ -1,0 +1,12 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+Traceback (most recent call last):
+  File "agent.py", line 2, in <module>
+    from lux.game import Game
+  File "/Users/japadua/0x78/lux-ai/x1/lux/game.py", line 2, in <module>
+    from .game_map import GameMap
+  File "/Users/japadua/0x78/lux-ai/x1/lux/game_map.py", line 11
+    def __init__(self, r_type: str, amount: int):
+                             ^
+SyntaxError: invalid syntax

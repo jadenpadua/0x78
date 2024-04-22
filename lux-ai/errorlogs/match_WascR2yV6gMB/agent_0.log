@@ -1,0 +1,7 @@
+=== Agent Install Log ===
+=== Agent Compile Log ===
+=== Agent Error Log ===
+  File "agent.py", line 30
+    resource_tiles: list[Cell] = []
+                  ^
+SyntaxError: invalid syntax
